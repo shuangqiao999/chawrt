@@ -1,5 +1,5 @@
-src-git packages https://github.com/shuangqiao999/packages.git;chawrt/master
-src-git luci https://github.com/shuangqiao999/luci.git;chawrt/master
+src-git packages https://github.com/shuangqiao999/packages.git;chawrt/24.10
+src-git luci https://github.com/shuangqiao999/luci.git;chawrt/24.10
 #src-git routing https://git.openwrt.org/feed/routing.git
 #src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git video https://github.com/openwrt/video.git
